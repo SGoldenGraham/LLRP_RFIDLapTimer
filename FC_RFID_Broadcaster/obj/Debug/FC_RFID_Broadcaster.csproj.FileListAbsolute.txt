@@ -1,0 +1,14 @@
+\\corpad01\mydocsrd\simon.graham\my documents\visual studio 2015\Projects\FC_RFID_Broadcaster\FC_RFID_Broadcaster\bin\Debug\FC_RFID_Broadcaster.exe.config
+\\corpad01\mydocsrd\simon.graham\my documents\visual studio 2015\Projects\FC_RFID_Broadcaster\FC_RFID_Broadcaster\bin\Debug\FC_RFID_Broadcaster.exe
+\\corpad01\mydocsrd\simon.graham\my documents\visual studio 2015\Projects\FC_RFID_Broadcaster\FC_RFID_Broadcaster\bin\Debug\FC_RFID_Broadcaster.pdb
+\\corpad01\mydocsrd\simon.graham\my documents\visual studio 2015\Projects\FC_RFID_Broadcaster\FC_RFID_Broadcaster\obj\Debug\FC_RFID_Broadcaster.csprojResolveAssemblyReference.cache
+\\corpad01\mydocsrd\simon.graham\my documents\visual studio 2015\Projects\FC_RFID_Broadcaster\FC_RFID_Broadcaster\obj\Debug\FC_RFID_Broadcaster.exe
+\\corpad01\mydocsrd\simon.graham\my documents\visual studio 2015\Projects\FC_RFID_Broadcaster\FC_RFID_Broadcaster\obj\Debug\FC_RFID_Broadcaster.pdb
+C:\Private\FC_RFID_Broadcaster\FC_RFID_Broadcaster\bin\Debug\FC_RFID_Broadcaster.exe.config
+C:\Private\FC_RFID_Broadcaster\FC_RFID_Broadcaster\obj\Debug\FC_RFID_Broadcaster.exe
+C:\Private\FC_RFID_Broadcaster\FC_RFID_Broadcaster\obj\Debug\FC_RFID_Broadcaster.pdb
+C:\Private\FC_RFID_Broadcaster\FC_RFID_Broadcaster\obj\Debug\FC_RFID_Broadcaster.csprojResolveAssemblyReference.cache
+C:\Private\FC_RFID_Broadcaster\FC_RFID_Broadcaster\bin\Debug\FC_RFID_Broadcaster.exe
+C:\Private\FC_RFID_Broadcaster\FC_RFID_Broadcaster\bin\Debug\FC_RFID_Broadcaster.pdb
+C:\Private\FC_RFID_Broadcaster\FC_RFID_Broadcaster\bin\Debug\LLRP.dll
+C:\Private\FC_RFID_Broadcaster\FC_RFID_Broadcaster\bin\Debug\LLRP.pdb
